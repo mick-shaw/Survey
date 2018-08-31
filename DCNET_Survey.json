@@ -1,0 +1,17 @@
+{
+  "questions": [
+    {
+      "body": "On a scale of 1 to 10, how knowledgable was the agent.?",
+      "kind": "numeric"
+    },
+    {
+      "body": "Was your issue resolved?",
+      "kind": "yes-no"
+    },
+    {
+      "body": "Were you issued a C S L number?",
+      "kind": "yes-no"
+    }
+  ],
+  "title": "Department of Human Services"
+}
